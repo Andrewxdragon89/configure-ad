@@ -146,6 +146,6 @@ Login into the client with your admin account and go to the system settings and 
 </p>
 <p>
 <a href="https://github.com/joshmadakor1/AD_PS/blob/master/Generate-Names-Create-Users.ps1
-">Use this link</a> to copy a raw script and then open windows power shell ISE as an administrator from the Domain Controller. Click on file then new and then paste script and then click the green play button on top to run the script. This script requires you to have an OU named _EMPLOYEES. This will generate a numerous amount of accounts with the same password: password1. Use one of these accounts to login into your client to conclude the demonstration. 
+">Use this link</a> to copy a raw script and then open windows power shell ISE as an administrator from the Domain Controller. Click on file then new and then paste script and then click the green play button on top to run the script. This script requires you to have an OU named _EMPLOYEES. This will generate a numerous amount of accounts with the same password: password1. Using this login log into one of the machines to conclude this tutorial. 
 </p>
 <br />
